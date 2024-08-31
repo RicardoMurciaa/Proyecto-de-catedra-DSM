@@ -2,7 +2,7 @@
 
 # Nombre de la Aplicación
 <br>
-> **🚨  IMPORTANTE:**
+ **🚨  IMPORTANTE:**
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
