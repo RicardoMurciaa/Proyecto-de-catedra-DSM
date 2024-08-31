@@ -2,7 +2,8 @@
 
 # Nombre de la Aplicación
 <br>
-## 🚨 Caution
+
+## ℹ️ Important
 
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
@@ -51,7 +52,7 @@
 
 
 
-> [!CAUTION]
+## ⚠️ Caution
 
 
 
