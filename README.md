@@ -3,7 +3,7 @@
 # Nombre de la Aplicación
 <br>
 
-## ℹ️ Important
+## ℹ️ Importante
 
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
