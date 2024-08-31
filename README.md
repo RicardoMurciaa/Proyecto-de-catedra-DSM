@@ -28,7 +28,7 @@
 </div>
 <br>
 
-<h2>:hammer: Heramientas y Tecnologias Utilizadas</h2>
+## ⚙️ Herramientas y Tecnologías Utilizadas
 <br>
 
 
@@ -38,7 +38,7 @@
 
 
 
-<h2>:open_file_folder:Archivos importantes </h2>
+## 📝 Archivos Importantes
 <br>
 
 
