@@ -2,8 +2,7 @@
 # Nombre de la Aplicación
 
 
-
-> **⚠️ IMPORTANTE:**
+<strong>🚨 IMPORTANTE:</strong>
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
@@ -22,10 +21,10 @@
   </tr>
 </table>
 </div>
-
+<br>
 
 <h2>:hammer: Heramientas y Tecnologias Utilizadas</h2>
-
+<br>
 
 
 
@@ -35,7 +34,7 @@
 
 
 <h2>:open_file_folder:Archivos importantes </h2>
-
+<br>
 
 
 
@@ -43,12 +42,12 @@
 
 
 <h2>🔒Licencias</h2>
-
+<br>
 
 
 
 > [!CAUTION]
-
+<br>
 
 
 
