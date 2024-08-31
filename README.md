@@ -1,6 +1,7 @@
 # DSM441 G01T
-# Nombre de la Aplicación
 
+# Nombre de la Aplicación
+<br>
 > **🚨  IMPORTANTE:**
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
@@ -44,8 +45,7 @@
 <br>
 
 
-
-> [!CAUTION]
+## ⚠️ Caution
 <br>
 
 
