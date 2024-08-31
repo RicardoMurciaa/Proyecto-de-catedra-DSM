@@ -1,8 +1,7 @@
 # DSM441 G01T
 # Nombre de la Aplicación
 
-
-<strong>🚨 IMPORTANTE:</strong>
+> **🚨  IMPORTANTE:**
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
