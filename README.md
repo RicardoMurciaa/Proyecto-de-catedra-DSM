@@ -3,8 +3,7 @@
 
 
 
-> [!IMPORTANT]
-
+> **⚠️ IMPORTANTE:** 
 
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
