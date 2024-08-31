@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 
 
-<h2>Equipo de Desarrollo 👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻</h2>
+<h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
