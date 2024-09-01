@@ -50,12 +50,12 @@
 <br>
 
 
-## ⚠️ Caution
+## ⚠️ Precaución
 <br>
 
 
 
-## ⚠️ Caution
+## ⚠️ Precaución
 
 
 
