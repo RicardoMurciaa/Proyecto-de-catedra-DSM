@@ -2,7 +2,8 @@
 
 <br>
 
-# Nombre de la Aplicación
+# GalleryGenius
+Bienvenido al repositorio de desarrollo de GalleryGenius 👋🏻
 
 <br>
 
