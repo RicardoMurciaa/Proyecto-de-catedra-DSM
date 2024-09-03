@@ -7,6 +7,7 @@
 <br>
 
 ## ℹ️ Importante
+GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas noticas
 
    <br>
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
