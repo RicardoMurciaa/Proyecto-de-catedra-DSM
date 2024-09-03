@@ -39,7 +39,7 @@
 
 
 ## 📝 Archivos Importantes
->[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)
+>[Enlace de lo Diseño de los Muckup's 🖌](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)
 
 <br>
 
