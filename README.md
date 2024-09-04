@@ -3,7 +3,7 @@
 <br>
 
 # GalleryGenius
-Bienvenido al repositorio de desarrollo de GalleryGenius nuetra aplicacion movil 👋🏻
+Bienvenido al repositorio de desarrollo de GalleryGenius nuestra aplicacion movil 👋🏻
 
 <br>
 
