@@ -46,7 +46,6 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 ## 🔒 Licencias
 [**Licencias Creative Commons**](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
-[Licencia](https://github.com/Cabrera437/Proyecto-de-catedra-DSM/blob/master/Licencia.png)
 
 
 
