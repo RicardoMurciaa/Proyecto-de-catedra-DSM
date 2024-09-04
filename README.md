@@ -2,7 +2,7 @@
 
 <br>
 
-# GalleryGenius
+# GalleryGenius🔵🟢🔴🟠
 Bienvenido al repositorio de desarrollo de GalleryGenius nuestra aplicacion movil 👋🏻
 
 <br>
