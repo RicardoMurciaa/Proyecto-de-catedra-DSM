@@ -34,9 +34,9 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 <table>
 
   <tr align="center">
-    <td>Android studio </td>
-    <td>Kotlin</td>
-    <td>Firebase</td>
+    <td>✅Android studio </td>
+    <td>✅Kotlin</td>
+    <td>✅Firebase</td>
 
   </tr>
 </table>
