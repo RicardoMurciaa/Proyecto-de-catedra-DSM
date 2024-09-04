@@ -52,7 +52,7 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 <h2>🔒Licencias</h2>
 <br>
->[Licencias Creative Commons 🖌](https://creativecommons.org/licenses/by-nc-nd/4.0)
+[Licencias Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
 <br>
 
