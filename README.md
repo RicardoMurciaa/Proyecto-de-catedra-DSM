@@ -53,14 +53,10 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 [**Licencias Creative Commons**](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
 
-
-
-
-
-
 <br>
 
 ## ⚠️ Precaución
+GalleryGenius está bajo la licencia de Creative commons CC BY-NC-ND 4.0
 <br>
 
 
