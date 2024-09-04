@@ -31,7 +31,6 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 <br>
 
 ## ⚙️ Herramientas y Tecnologías Utilizadas
-<br>
 <table>
 
   <tr align="center">
