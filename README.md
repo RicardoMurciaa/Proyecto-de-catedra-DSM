@@ -32,12 +32,15 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 ## ⚙️ Herramientas y Tecnologías Utilizadas
 <br>
+<table>
 
+  <tr align="center">
+    <td>Android studio </td>
+    <td>Kotlin</td>
+    <td>Firebase</td>
 
-
-
-
-
+  </tr>
+</table>
 
 
 ## 📝 Archivos Importantes
