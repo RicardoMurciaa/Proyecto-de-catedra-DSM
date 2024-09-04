@@ -9,8 +9,8 @@ Bienvenido al repositorio de desarrollo de GalleryGenius nuetra aplicacion movil
 
 ## ℹ️ Importante
 GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas noticas
-
    <br>
+   
 <h2>👨🏻‍💻👨🏻‍💻👨🏻‍💻👩🏻‍💻Equipo de Desarrollo </h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
@@ -42,11 +42,11 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 ## 📝 Archivos Importantes
 [**Diseño de los Mock Ups 🖌**](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)
-
+<br>
 ## 🔒 Licencias
 [**Licencias Creative Commons**](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
-
+<br>
 
 ## ⚠️ Precaución
 <br>
