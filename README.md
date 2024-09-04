@@ -48,6 +48,7 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 [**Enlace a Trello 🖊️**](https://trello.com/invite/b/66cf92384eb94c1aa5eca600/ATTI62e1cafea91d0f76cd54a11536dddf7f2C860B72/proyecto-de-catedra-dsm)
 
 <br>
+
 ## 🔒 Licencias
 [**Licencias Creative Commons**](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
