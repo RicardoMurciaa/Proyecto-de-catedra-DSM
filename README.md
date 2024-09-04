@@ -2,7 +2,7 @@
 
 <br>
 
-# GalleryGenius🔵🟢🔴🟠
+# 🔴🔵 GalleryGenius
 Bienvenido al repositorio de desarrollo de GalleryGenius nuestra aplicacion movil 👋🏻
 
 <br>
@@ -43,14 +43,14 @@ GalleryGenius Aún continua en desarrollo, espera  publicaciónes y nuevas notic
 
 
 ## 📝 Archivos Importantes
-🔶[**Diseño de los Mock Ups 🖌**](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)<br>
+🔴[**Diseño de los Mock Ups 🖌**](https://www.figma.com/design/Dxqv9KMfVSPMEjloIrW9x0/DSM-PROYECTO-CATEDRA-DISE%C3%91OS?node-id=0-1&t=zYOxJ1Uvja7JQGzF-1)<br>
 
-🔶[**Enlace a Trello 🖊️**](https://trello.com/invite/b/66cf92384eb94c1aa5eca600/ATTI62e1cafea91d0f76cd54a11536dddf7f2C860B72/proyecto-de-catedra-dsm)
+🔵[**Enlace a Trello 🖊️**](https://trello.com/invite/b/66cf92384eb94c1aa5eca600/ATTI62e1cafea91d0f76cd54a11536dddf7f2C860B72/proyecto-de-catedra-dsm)
 
 <br>
 
 ## 🔒 Licencias
-[**Licencias Creative Commons 📃📃**](https://creativecommons.org/licenses/by-nc-nd/4.0)
+🟢[**Licencias Creative Commons 📃📃**](https://creativecommons.org/licenses/by-nc-nd/4.0)
 
 
 <br>
